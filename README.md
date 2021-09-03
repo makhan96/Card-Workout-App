@@ -9,7 +9,7 @@ The value of each card represents the number of exerciese you do.\n\nJ = 11, Q =
 ♠️ = Push Ups
  ❤️ = Sit Ups
  ♣️ = Burpees
- ♦️ = Jumping Jacks\n
+ ♦️ = Jumping Jacks
 
 
 <img src='demogif.gif' title='Demo Walkthrough' width='' alt='Demo Walkthrough' />
