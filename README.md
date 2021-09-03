@@ -11,5 +11,6 @@ The value of each card represents the number of exerciese you do.\n\nJ = 11, Q =
  ♣️ = Burpees
  ♦️ = Jumping Jacks
 
+# DEMO
 
 <img src='demogif.gif' title='Demo Walkthrough' width='' alt='Demo Walkthrough' />
