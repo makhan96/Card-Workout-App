@@ -9,9 +9,12 @@ The value of each card represents the number of exerciese you do:
 J = 11, Q = 12, K = 13, A = 14
 
 ♠️ = Push Ups
- ❤️ = Sit Ups
- ♣️ = Burpees
- ♦️ = Jumping Jacks
+
+❤️ = Sit Ups
+ 
+♣️ = Burpees
+ 
+♦️ = Jumping Jacks
 
 # DEMO
 
