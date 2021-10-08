@@ -4,7 +4,7 @@ Card workout app made in UIKit programmatically
 
 # RULES
 
-The value of each card represents the number of exerciese you do.
+The value of each card represents the number of exerciese you do. \n
 J = 11, Q = 12, K = 13, A = 14
 
 ♠️ = Push Ups
